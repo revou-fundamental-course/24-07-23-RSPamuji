@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.26772in" height="11.6929in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8268 11693"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:6.94488}
+    .fil1 {fill:none}
+    .fil0 {fill:#3E4095}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M4134 3087l1264 690 1265 690 0 1379 0 1380 -1265 690 -1264 689 -1265 -689 -1264 -690 0 -1380 0 -1379 1264 -690 1265 -690z"/>
+   </clipPath>
+    <clipPath id="id1">
+     <path d="M4134 3087l1264 690 1265 690 0 1379 0 1380 -1265 690 -1264 689 -1265 -689 -1264 -690 0 -1380 0 -1379 1264 -690 1265 -690z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M4134 3087l1264 690 1265 690 0 1379 0 1380 -1265 690 -1264 689 -1265 -689 -1264 -690 0 -1380 0 -1379 1264 -690 1265 -690z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="4134,3087 5398,3777 6663,4467 6663,5846 6663,7226 5398,7916 4134,8605 2869,7916 1605,7226 1605,5846 1605,4467 2869,3777 "/>
+  <g style="clip-path:url(#id0)">
+   <g id="_2678649438848">
+   </g>
+   <g style="clip-path:url(#id1)">
+    <image x="-46" y="2933" width="7768" height="5826" xlink:href="Monyet_Images\Monyet_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id2)">
+   </g>
+  </g>
+  <polygon class="fil1 str0" points="4134,3087 5398,3777 6663,4467 6663,5846 6663,7226 5398,7916 4134,8605 2869,7916 1605,7226 1605,5846 1605,4467 2869,3777 "/>
+ </g>
+</svg>
